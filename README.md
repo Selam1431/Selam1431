@@ -58,11 +58,7 @@
 
 ---
 
-## 🧰 Tech Stack
 
-<div align="center">
-
-<img src="https://www.gitskins.com/api/section/stack?username=selam1431&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F122413283%3Fu%3D4c6ba30f89a9d51e70c6718ddd992e6d59d92487%26v%3D4" alt="Technology stack" width="100%"/>
 
 ### Languages
 
