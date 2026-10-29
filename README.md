@@ -1,68 +1,170 @@
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=selam1431&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F122413283%3Fu%3D4c6ba30f89a9d51e70c6718ddd992e6d59d92487%26v%3D4" alt="selam1431 hero visual" />
-</p>
 
-<p align="center"><b>Selamawit</b> · Backend or systems engineer<br/><sub>Software Developer</sub></p>
+<div align="center">
 
-<p align="center"><a href="https://github.com/selam1431">GitHub</a></p>
+<img src="https://www.gitskins.com/api/section/hero?username=selam1431&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F122413283%3Fu%3D4c6ba30f89a9d51e70c6718ddd992e6d59d92487%26v%3D4" alt="Selamawit AI Engineering Hero" width="100%"/>
 
-<details open>
-<summary><b>📌 Top projects</b></summary>
 <br/>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=selam1431&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F122413283%3Fu%3D4c6ba30f89a9d51e70c6718ddd992e6d59d92487%26v%3D4" alt="selam1431 projects visual" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Selamawit+%F0%9F%91%8B;Software+Developer+%7C+AI+Engineer;Building+Intelligent+Applications;Exploring+Machine+Learning+%26+Cloud;Dream+%E2%80%A2+Build+%E2%80%A2+Learn+%E2%80%A2+Repeat" alt="Animated introduction"/>
 
-- [neetcode-submissions](https://github.com/Selam1431/neetcode-submissions) · ★ 0 — My NeetCode.io problem submissions
-- [Rag-Document-Search](https://github.com/Selam1431/Rag-Document-Search) · ★ 0 — AI-powered document search system using Retrieval-Augmented Generation (RAG) with Ollama embeddings 
-- [stock-direction-ml](https://github.com/Selam1431/stock-direction-ml) · ★ 0 — Stock Price Direction Prediction using Machine Learning
-- [string-application](https://github.com/Selam1431/string-application) · ★ 0
-- [WorkBook-2](https://github.com/Selam1431/WorkBook-2) · ★ 0
-- [my-first-repo](https://github.com/Selam1431/my-first-repo) · ★ 0 — My first GitHub repository for practicing Git and GitHub.
+### Software Developer | AI & Machine Learning | Cloud Engineering
 
-</details>
+**Turning ideas into intelligent software solutions.**
 
-<details>
-<summary><b>🧰 Stack</b></summary>
-<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-Selam1431-0B1120?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Selam1431)
+![Location](https://img.shields.io/badge/Bellevue-Washington-22D3EE?style=for-the-badge&labelColor=0B1120)
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=selam1431&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F122413283%3Fu%3D4c6ba30f89a9d51e70c6718ddd992e6d59d92487%26v%3D4" alt="selam1431 stack visual" />
-</p>
 
-</details>
+</div>
 
-<details>
-<summary><b>📊 By the numbers</b></summary>
-<br/>
+---
 
-<b>12</b> public repositories, <b>0</b> stars, <b>310</b> contributions in the last year, a longest streak of <b>16</b> days and <b>2</b> followers.
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=selam1431&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F122413283%3Fu%3D4c6ba30f89a9d51e70c6718ddd992e6d59d92487%26v%3D4" alt="selam1431 stats visual" />
-</p>
 
-</details>
 
-<details>
-<summary><b>🟩 Activity</b></summary>
-<br/>
+## 👩🏽‍💻 About Me
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=selam1431&theme=neon" alt="selam1431 contribution activity" />
-</p>
+**Hey, I'm Selamawit! 👋**  
+💡 **Software Developer | AI Enthusiast | Problem Solver**
 
-</details>
+🎓 Software Development student specializing in **Artificial Intelligence** at Bellevue College.  
+🚀 Software engineering internship experience, building **AI-powered applications and real-world solutions**.  
+🧠 Passionate about **AI/ML, backend engineering, and cloud technologies**.  
+💻 **Python • Java • AWS • RAG • Machine Learning**  
 
-<details>
-<summary><b>👋 Say hello</b></summary>
-<br/>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=selam1431&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F122413283%3Fu%3D4c6ba30f89a9d51e70c6718ddd992e6d59d92487%26v%3D4" alt="selam1431 social visual" />
-</p>
+> ✨ *"Never stop asking how and why."*
 
-</details>
+---
 
-<p align="center"><sub>Selamawit · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+## 🖥️ Developer Command Center
+
+<div align="center">
+
+![System](https://img.shields.io/badge/●%20SYSTEM-ONLINE-00D4AA?style=for-the-badge&labelColor=0B1120)
+![Mission](https://img.shields.io/badge/MISSION-BUILD%20%26%20INNOVATE-A78BFA?style=for-the-badge&labelColor=0B1120)
+![Focus](https://img.shields.io/badge/FOCUS-AI%20ENGINEERING-22D3EE?style=for-the-badge&labelColor=0B1120)
+
+| 🧠 Focus Areas | ⚙️ Engineering Pipeline |
+|:---:|:---:|
+| AI & Machine Learning | 💡 Idea → 💻 Code |
+| Computer Vision | 🧪 Train & Test |
+| RAG & LLMs | ☁️ Deploy |
+| Cloud & Backend Systems | 🚀 Monitor & Improve |
+
+</div>
+
+### 🟢 Currently Working On
+
+```text
+[●] Building AI-powered applications
+[●] Improving Java and backend engineering skills
+[●] Practicing algorithms and data structures
+[●] Exploring cloud infrastructure and system design
+```
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/section/projects?username=selam1431&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F122413283%3Fu%3D4c6ba30f89a9d51e70c6718ddd992e6d59d92487%26v%3D4" alt="Featured GitHub projects" width="100%"/>
+
+</div>
+
+| Project | Description | Technologies |
+|:---|:---|:---|
+| [🧠 RAG Document Search](https://github.com/Selam1431/Rag-Document-Search) | AI-powered document search using retrieval-augmented generation | Python, Ollama, RAG |
+| [📈 Stock Direction ML](https://github.com/Selam1431/stock-direction-ml) | Machine learning project predicting stock price direction | Python, ML |
+| [☕ Java WorkBook-2](https://github.com/Selam1431/WorkBook-2) | Java applications covering OOP, file handling, collections, and CLI development | Java, Maven |
+| [🧩 NeetCode Submissions](https://github.com/Selam1431/neetcode-submissions) | Data structures and algorithm problem-solving practice | Python, Algorithms |
+| [💻 String Application](https://github.com/Selam1431/WorkBook-2) | Java Projects | Java |
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/section/stack?username=selam1431&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F122413283%3Fu%3D4c6ba30f89a9d51e70c6718ddd992e6d59d92487%26v%3D4" alt="Technology stack" width="100%"/>
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-0B1120?style=for-the-badge&logo=python&logoColor=22D3EE)
+![Java](https://img.shields.io/badge/Java-0B1120?style=for-the-badge&logo=openjdk&logoColor=A78BFA)
+![C++](https://img.shields.io/badge/C++-0B1120?style=for-the-badge&logo=cplusplus&logoColor=22D3EE)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1120?style=for-the-badge&logo=javascript&logoColor=A78BFA)
+![SQL](https://img.shields.io/badge/SQL-0B1120?style=for-the-badge&logo=postgresql&logoColor=22D3EE)
+
+### AI & Machine Learning
+
+![NumPy](https://img.shields.io/badge/NumPy-0B1120?style=for-the-badge&logo=numpy&logoColor=22D3EE)
+![Pandas](https://img.shields.io/badge/Pandas-0B1120?style=for-the-badge&logo=pandas&logoColor=A78BFA)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-0B1120?style=for-the-badge&logo=scikitlearn&logoColor=22D3EE)
+![Ollama](https://img.shields.io/badge/Ollama-0B1120?style=for-the-badge&logo=ollama&logoColor=A78BFA)
+![RAG](https://img.shields.io/badge/RAG-0B1120?style=for-the-badge&logo=googlegemini&logoColor=22D3EE)
+
+### Cloud & Developer Tools
+
+![AWS](https://img.shields.io/badge/AWS-0B1120?style=for-the-badge&logo=amazonwebservices&logoColor=A78BFA)
+![Docker](https://img.shields.io/badge/Docker-0B1120?style=for-the-badge&logo=docker&logoColor=22D3EE)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0B1120?style=for-the-badge&logo=kubernetes&logoColor=A78BFA)
+![Git](https://img.shields.io/badge/Git-0B1120?style=for-the-badge&logo=git&logoColor=22D3EE)
+![GitHub](https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=A78BFA)
+![Maven](https://img.shields.io/badge/Maven-0B1120?style=for-the-badge&logo=apachemaven&logoColor=22D3EE)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/section/stats?username=selam1431&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F122413283%3Fu%3D4c6ba30f89a9d51e70c6718ddd992e6d59d92487%26v%3D4" alt="GitHub statistics" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selam1431&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=A78BFA&text_color=CBD5E1" alt="Top languages"/>
+
+</div>
+
+---
+
+## 🟪 Contribution Activity
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/section/heatmap?username=selam1431&theme=neon" alt="GitHub contribution activity" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 My Goals
+
+| Priority | Goal |
+|:---:|:---|
+| 🧠 | Build impactful AI and machine learning applications |
+| 💻 | Become a stronger software and backend engineer |
+| ☁️ | Deepen my knowledge of cloud systems |
+| 🚀 | Secure a 2027 SWE / AI / ML internship |
+| 🌱 | Contribute to open-source projects |
+| ✨ | Keep learning, building, and growing |
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/section/social?username=selam1431&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F122413283%3Fu%3D4c6ba30f89a9d51e70c6718ddd992e6d59d92487%26v%3D4" alt="Social connections" width="100%"/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Selam1431-0B1120?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Selam1431)
+
+### 💜 Dream • Build • Learn • Innovate • Repeat
+
+*"Building technology that solves real problems and creates impact."*
+
+![Footer](https://img.shields.io/badge/SELAM1431-AI%20ENGINEERING%20COMMAND%20CENTER-A78BFA?style=for-the-badge&labelColor=0B1120)
+
+</div>
