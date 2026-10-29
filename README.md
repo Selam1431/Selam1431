@@ -37,33 +37,8 @@
 
 ---
 
-## 🖥️ Developer Command Center
 
-<div align="center">
 
-![System](https://img.shields.io/badge/●%20SYSTEM-ONLINE-00D4AA?style=for-the-badge&labelColor=0B1120)
-![Mission](https://img.shields.io/badge/MISSION-BUILD%20%26%20INNOVATE-A78BFA?style=for-the-badge&labelColor=0B1120)
-![Focus](https://img.shields.io/badge/FOCUS-AI%20ENGINEERING-22D3EE?style=for-the-badge&labelColor=0B1120)
-
-| 🧠 Focus Areas | ⚙️ Engineering Pipeline |
-|:---:|:---:|
-| AI & Machine Learning | 💡 Idea → 💻 Code |
-| Computer Vision | 🧪 Train & Test |
-| RAG & LLMs | ☁️ Deploy |
-| Cloud & Backend Systems | 🚀 Monitor & Improve |
-
-</div>
-
-### 🟢 Currently Working On
-
-```text
-[●] Building AI-powered applications
-[●] Improving Java and backend engineering skills
-[●] Practicing algorithms and data structures
-[●] Exploring cloud infrastructure and system design
-```
-
----
 
 ## 🚀 Featured Projects
 
@@ -138,33 +113,7 @@
 
 </div>
 
----
-
-## 🎯 My Goals
-
-| Priority | Goal |
-|:---:|:---|
-| 🧠 | Build impactful AI and machine learning applications |
-| 💻 | Become a stronger software and backend engineer |
-| ☁️ | Deepen my knowledge of cloud systems |
-| 🚀 | Secure a 2027 SWE / AI / ML internship |
-| 🌱 | Contribute to open-source projects |
-| ✨ | Keep learning, building, and growing |
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<img src="https://www.gitskins.com/api/section/social?username=selam1431&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F122413283%3Fu%3D4c6ba30f89a9d51e70c6718ddd992e6d59d92487%26v%3D4" alt="Social connections" width="100%"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Selam1431-0B1120?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Selam1431)
 
-### 💜 Dream • Build • Learn • Innovate • Repeat
 
-*"Building technology that solves real problems and creates impact."*
-
-![Footer](https://img.shields.io/badge/SELAM1431-AI%20ENGINEERING%20COMMAND%20CENTER-A78BFA?style=for-the-badge&labelColor=0B1120)
-
-</div>
