@@ -25,7 +25,7 @@
 ## 👩🏽‍💻 About Me
 
 **Hey, I'm Selamawit! 👋**  
-💡 **Software Developer | AI Enthusiast | Problem Solver**
+💡 **Software Developer | AI Enthusiast 
 
 🎓 Software Development student specializing in **Artificial Intelligence** at Bellevue College.  
 🚀 Software engineering internship experience, building **AI-powered applications and real-world solutions**.  
