@@ -87,29 +87,3 @@
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://www.gitskins.com/api/section/stats?username=selam1431&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F122413283%3Fu%3D4c6ba30f89a9d51e70c6718ddd992e6d59d92487%26v%3D4" alt="GitHub statistics" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selam1431&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=A78BFA&text_color=CBD5E1" alt="Top languages"/>
-
-</div>
-
----
-
-## 🟪 Contribution Activity
-
-<div align="center">
-
-<img src="https://www.gitskins.com/api/section/heatmap?username=selam1431&theme=neon" alt="GitHub contribution activity" width="100%"/>
-
-</div>
-
-
-[![GitHub](https://img.shields.io/badge/GitHub-Selam1431-0B1120?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Selam1431)
-
-
